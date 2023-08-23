@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="500" height="300"/>
 </div>
 
----
+ ---
 
 ### :woman_technologist: Acerca de mi :
 Soy una Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Argentina.
