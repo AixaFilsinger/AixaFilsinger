@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif">
+</div>
 
 <!--
 **AixaFilsinger/AixaFilsinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
