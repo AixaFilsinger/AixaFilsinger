@@ -20,11 +20,13 @@
 
 ### :woman_technologist: Acerca de mi :
 Soy una Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Argentina.
-- :telescope: Estoy terminando la Tecnicatura Universitaria en Programación en UTN-FRT.
+- :telescope: Termine en agosto 2024 la Tecnicatura Universitaria en Programación en UTN-FRT.
 
 - :seedling: En agosto 2023 me certifique como Full Stack Mern Developer en Rolling Code School.
+  
+- :seedling: En noviembre 2024 me certifique como Backend Developer en Rolling Code School.
 
-- :zap: Soy de Argentina Tucumán, tengo 24 años y estoy buscando mi primer trabajo como programadora.
+- :zap: Soy de Argentina Tucumán, una apasionada por la tecnología que busca crecer profesionalmente.
 
 - :mailbox:Mi E-mail es: macafil99@gmail.com
   
